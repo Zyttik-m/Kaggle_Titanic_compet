@@ -197,7 +197,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Kittithat Chalermvisutkul**
 - GitHub: [@Zyttik-m](https://github.com/Zyttik-m)
 - Email: kittithatck@gmail.com
-- LinkedIn: [timmy-l-chan](https://linkedin.com/in/timmy-l-chan)
 
 ## 🙏 Acknowledgments
 
