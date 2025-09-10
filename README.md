@@ -196,17 +196,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Kittithat Chalermvisutkul**
 - GitHub: [@Zyttik-m](https://github.com/Zyttik-m)
-- Email: kittithatck@gmail.com
-
-## 🙏 Acknowledgments
-
-- **Kaggle** for providing the competition platform and dataset
-- **RMS Titanic** historical data contributors
-- Open source community for excellent machine learning libraries
-
----
-
-⭐ If you found this project helpful, please give it a star!
-🔗 Check out my other machine learning projects!
-
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/300px-RMS_Titanic_3.jpg)
